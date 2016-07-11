@@ -1,0 +1,16 @@
+        .hidden_ {
+                             display:none;
+                        }
+                        #startimg_container {
+                position:relative;
+                display:inline-block;
+                text-align:center;
+                border:1px solid red;
+            }
+            
+            .strt_button {
+                position:absolute;               
+                left:120px;
+                width:100px;
+                height:30px;
+            }
